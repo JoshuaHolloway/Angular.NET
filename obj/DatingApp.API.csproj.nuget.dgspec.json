@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\DatingApp.API\\DatingApp.API.csproj": {}
+    "c:\\dev\\Angular.NET\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "C:\\dev\\DatingApp.API\\DatingApp.API.csproj": {
+    "c:\\dev\\Angular.NET\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "c:\\dev\\Angular.NET\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "C:\\dev\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "c:\\dev\\Angular.NET\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\josh\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\DatingApp.API\\obj\\",
+        "outputPath": "c:\\dev\\Angular.NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -38,6 +38,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
