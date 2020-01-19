@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\Angular.NET\\backend\\0\\05\\DatingApp.API.csproj": {}
+    "C:\\dev\\Angular.NET\\backend\\0\\05\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "c:\\dev\\Angular.NET\\backend\\0\\05\\DatingApp.API.csproj": {
+    "C:\\dev\\Angular.NET\\backend\\0\\05\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\Angular.NET\\backend\\0\\05\\DatingApp.API.csproj",
+        "projectUniqueName": "C:\\dev\\Angular.NET\\backend\\0\\05\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "c:\\dev\\Angular.NET\\backend\\0\\05\\DatingApp.API.csproj",
+        "projectPath": "C:\\dev\\Angular.NET\\backend\\0\\05\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\josh\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\Angular.NET\\backend\\0\\05\\obj\\",
+        "outputPath": "C:\\dev\\Angular.NET\\backend\\0\\05\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
